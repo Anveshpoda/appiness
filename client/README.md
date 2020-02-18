@@ -1,6 +1,6 @@
 ## Description
 
-This is an Task from Appiness. This repository contains all the client side react code. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). All UI components are used from [AntD](https://ant.design/).
+This is an Task from Appiness. This repository contains all the client side react code. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). UI/UX components are used from [AntD](https://ant.design/).
 
 ## Usage
 
