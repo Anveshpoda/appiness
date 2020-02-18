@@ -35,3 +35,7 @@
 [2020-02-17T23:33:23.513] [DEBUG] ANVESH - Connected to the database successfully.
 [2020-02-17T23:33:23.750] [DEBUG] ANVESH - Worker 24822 started
 [2020-02-17T23:33:23.751] [DEBUG] ANVESH - Listening on port 8080
+[2020-02-18T12:12:42.883] [DEBUG] ANVESH - App loaded by PID 10299
+[2020-02-18T12:12:44.447] [DEBUG] ANVESH - Connected to the database successfully.
+[2020-02-18T12:12:44.575] [DEBUG] ANVESH - Worker 10299 started
+[2020-02-18T12:12:44.576] [DEBUG] ANVESH - Listening on port 8080

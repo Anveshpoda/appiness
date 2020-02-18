@@ -1,6 +1,9 @@
 ## Description
 
-This is an Task from Appiness. This repository contains all the server side NodeJs code. 
+This is an Task from Appiness. This repository contains below stack
+
+- node-express
+- Mongo DB(mLab). 
 
 ## Usage
 
