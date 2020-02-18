@@ -11,7 +11,7 @@ To install dependencies make sure you have node installed globally then
 
 `npm install`
 
-To start the project
+To start the project (this connects with static MongoDB from `environment.js`)
 
 `npm start`
 
