@@ -1,6 +1,6 @@
 ## Description
 
-This is an Task from Appiness. This repository contains all the client side react code. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an Task from Appiness. This repository contains all the client side react code. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). All UI components are used from [AntD](https://ant.design/).
 
 ## Usage
 
@@ -15,6 +15,7 @@ To start the project
 Login with below credentials
 
 `username: hruday@gmail.com`
+
 `password: hruday123`
 
 
