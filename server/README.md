@@ -12,5 +12,10 @@ To start the project
 
 `npm start`
 
+## API Usage
 
+**Base Url** : localhost:8080
 
+**Endpoint** : /getCategories
+
+**Result** : List of all categories with products and products count associated to each category
